@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light");
+
+body {
+  font-family: "Shadows Into Light", cursive;
+}
+
+main {
+  background-color: #2a327b;
+  width: 50%;
+  margin: auto;
+}
+
+.azerty {
+  display: flex;
+  justify-content: space-around;
+}
+P {
+  color: white;
+  text-align: center;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+@media (max-width: 960px) {
+    .azerty{
+        width: 100%;
+    }
+
+img{
+
+    width: 100%;
+}
+
+
+
+
+}
+
+@media (max-width: 460px){
+
+
+
+}
