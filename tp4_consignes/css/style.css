@@ -96,3 +96,10 @@ footer ul {
   display: flex;
   color: white;
 }
+.logo {
+  transition: ease-out 3s;
+}
+
+.logo1 img:hover {
+  transform: rotate(360deg);
+}
